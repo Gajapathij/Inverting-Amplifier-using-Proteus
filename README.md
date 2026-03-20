@@ -71,6 +71,7 @@ o	Input = 1V, 1kHz sine wave
 
 <img width="767" height="468" alt="image" src="https://github.com/user-attachments/assets/96ea9932-1977-43ea-85a5-9406dc9eebc5" />
 
+
 ## Result
 The Inverting Amplifier using μA741 Op-Amp was successfully designed and simulated in Proteus.
 The practical output voltage closely matches the theoretical value.
